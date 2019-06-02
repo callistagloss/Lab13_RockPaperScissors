@@ -1,0 +1,10 @@
+C:\Users\grand\source\repos\Lab13RPSBreakout\bin\Release\netcoreapp2.1\Lab13RPSBreakout.deps.json
+C:\Users\grand\source\repos\Lab13RPSBreakout\bin\Release\netcoreapp2.1\Lab13RPSBreakout.runtimeconfig.json
+C:\Users\grand\source\repos\Lab13RPSBreakout\bin\Release\netcoreapp2.1\Lab13RPSBreakout.runtimeconfig.dev.json
+C:\Users\grand\source\repos\Lab13RPSBreakout\bin\Release\netcoreapp2.1\Lab13RPSBreakout.dll
+C:\Users\grand\source\repos\Lab13RPSBreakout\bin\Release\netcoreapp2.1\Lab13RPSBreakout.pdb
+C:\Users\grand\source\repos\Lab13RPSBreakout\obj\Release\netcoreapp2.1\Lab13RPSBreakout.csproj.CoreCompileInputs.cache
+C:\Users\grand\source\repos\Lab13RPSBreakout\obj\Release\netcoreapp2.1\Lab13RPSBreakout.AssemblyInfoInputs.cache
+C:\Users\grand\source\repos\Lab13RPSBreakout\obj\Release\netcoreapp2.1\Lab13RPSBreakout.AssemblyInfo.cs
+C:\Users\grand\source\repos\Lab13RPSBreakout\obj\Release\netcoreapp2.1\Lab13RPSBreakout.dll
+C:\Users\grand\source\repos\Lab13RPSBreakout\obj\Release\netcoreapp2.1\Lab13RPSBreakout.pdb
